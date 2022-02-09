@@ -25,5 +25,3 @@ git config --global user.email "<tbd>"
 ```
 git config --list
 ```
-
-* **TODO:** setup gitk
