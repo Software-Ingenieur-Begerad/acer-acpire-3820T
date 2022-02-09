@@ -11,3 +11,13 @@ documentattion for acer-acpire-3820T
 ## [Setup Email Client](doc/setup-email-client.md)
 ## [Setup Git](doc/setup-git.md)
 ## [Connect To GitHub Using SSH](doc/connect-github-ssh.md)
+## [TODO](todo)
+
+## TODO
+
+* gitk
+* Java
+* Maven
+* Reuse
+* OpenVPN
+* keepass
