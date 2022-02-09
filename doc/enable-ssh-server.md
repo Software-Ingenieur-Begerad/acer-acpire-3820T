@@ -10,7 +10,7 @@ ss -tupln
 systemctl list-unit-files | grep enabled | grep ssh
 ```
 
-* set default port to <tbd>, disable PermitRootLogin using
+* set default port to ```<tbd>```, disable PermitRootLogin using
 ```
 sudo vi /etc/ssh/sshd_config
 sudo systemctl restart sshd
