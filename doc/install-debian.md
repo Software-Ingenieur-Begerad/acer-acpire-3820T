@@ -10,4 +10,4 @@
  * username for your account,<tbd>
  * user key,<tbd>
 
-* format USB drive after successful installation again using [preparation instruction](prepare-usb-drive)
+* format USB drive after successful installation again using [preparation instruction](prepare-usb-drive.md)
