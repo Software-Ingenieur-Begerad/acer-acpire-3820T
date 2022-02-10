@@ -20,7 +20,8 @@ sudo openvpn --version
 sudo openvpn
 ```
 
-* connect to VPN
+* change into the folder containing the VPN configuration files and connect
 ```
 sudo openvpn --config <*.ovpn>
 ```
+

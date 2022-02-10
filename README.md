@@ -13,11 +13,12 @@ documentattion for acer-acpire-3820T
 ## [Connect To GitHub Using SSH](doc/connect-github-ssh.md)
 ## [Connect To VPN](doc/connect-vpn.md)
 ## [Setup RDP Client](doc/setup-rdc.md)
+## [Setup Password Manager](doc/setup-pwd-mgmt.md)
 ## To-do List
 
 * gitk
 * Java
 * Maven
 * Reuse
-* OpenVPN
-* keepass
+* emacs
+
