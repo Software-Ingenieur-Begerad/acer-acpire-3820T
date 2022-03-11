@@ -20,6 +20,7 @@ documentattion for acer-acpire-3820T
 * [Setup Java](https://github.com/Software-Ingenieur-Begerad/setup/blob/main/doc/java.md)
 * [Setup Maven](https://github.com/Software-Ingenieur-Begerad/setup/blob/main/doc/maven.md)
 * [Setup Emacs](https://github.com/Software-Ingenieur-Begerad/setup/blob/main/doc/emacs.md)
+* [Setup Gimp](https://github.com/Software-Ingenieur-Begerad/setup/blob/main/doc/gimp.md)
 
 ## To-do List
 
